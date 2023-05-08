@@ -2,6 +2,9 @@
 
 When you have a lot of images and want to filter them into different folders, this repo can help you.
 
+It is an effective tool to get classification dataset.
+If you want to classify images using text file, check this [repo](https://github.com/ccomkhj/Imagenet_annotator).
+
 `--input` direct to the directory of your images. \
 `--output` direct to the directory to save outcome. \
 `--type` write down your classes with comma separation (w/o space). \
